@@ -1,0 +1,1679 @@
+{
+  "version": "2026-10-10T17:20:20.6398781Z",
+  "rootPath": "PixelEditor_Assets",
+  "files": [
+    {
+      "relativePath": "Assets/pe_icon_256_transparent.png",
+      "size": 99996,
+      "hash": "sha256-d3394fc75e21008686f3602e3149e3ef2df94277be59f2d15158d96acc9ec8fd",
+      "zipEntryName": "Assets/pe_icon_256_transparent.png"
+    },
+    {
+      "relativePath": "Assets/Figure/mannequin_default.blend",
+      "size": 183786,
+      "hash": "sha256-0ac35a26dbc48c373cc4bcd420ef03e2b3ef1d253e0cc33030a664af75e0600c",
+      "zipEntryName": "Assets/Figure/mannequin_default.blend"
+    },
+    {
+      "relativePath": "Assets/Figure/mannequin_default.blend1",
+      "size": 184389,
+      "hash": "sha256-06ce6e5ff5663b489a3d5769f4fed4172a0088f40a0d56a24f144eae3d79b411",
+      "zipEntryName": "Assets/Figure/mannequin_default.blend1"
+    },
+    {
+      "relativePath": "Assets/Figure/mannequin_default.fbx",
+      "size": 168460,
+      "hash": "sha256-e2caad2af1e5c68ee1228c92fdd098935f1776ed0d6a3a32ac41ec2b138a8d28",
+      "zipEntryName": "Assets/Figure/mannequin_default.fbx"
+    },
+    {
+      "relativePath": "Assets/Icons/sun_light.png",
+      "size": 477,
+      "hash": "sha256-b3beff3a0a436b69e92c5146ebe271d724e3aebea9f75b41df3c2abfd1e003aa",
+      "zipEntryName": "Assets/Icons/sun_light.png"
+    },
+    {
+      "relativePath": "Assets/Native/xbrz.dll",
+      "size": 254976,
+      "hash": "sha256-cfaa1e1acc81978c67210a3d013db3aed52571f11752e80c60506cf12247364f",
+      "zipEntryName": "Assets/Native/xbrz.dll"
+    },
+    {
+      "relativePath": "Assets/Scaler/models/4x-PixelPerfectV4.onnx",
+      "size": 3208098,
+      "hash": "sha256-1c2b1a51dfd20ca40a8cf56748bcf3f615bd5c8e333a8d82eb85adebb7fbfa77",
+      "zipEntryName": "Assets/Scaler/models/4x-PixelPerfectV4.onnx"
+    },
+    {
+      "relativePath": "Assets/Scaler/models/4x-PixelPerfectV4.onnx.data",
+      "size": 66737664,
+      "hash": "sha256-f0038b1ced1dc4ff058421bed44be4458e08b7952abd9cb691c4348749663227",
+      "zipEntryName": "Assets/Scaler/models/4x-PixelPerfectV4.onnx.data"
+    },
+    {
+      "relativePath": "Assets/Figure/models/dwpose/dw-ll_ucoco_384.onnx",
+      "size": 134399116,
+      "hash": "sha256-724f4ff2439ed61afb86fb8a1951ec39c6220682803b4a8bd4f598cd913b1843",
+      "zipEntryName": "Assets/Figure/models/dwpose/dw-ll_ucoco_384.onnx"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/controlnet/model.onnx",
+      "size": 728929617,
+      "hash": "sha256-aeec86e47fdb5ec767426934cd5fe40035c2a7216858894ee82b2561cbc1de9b",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/controlnet/model.onnx"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/scheduler/scheduler_config.json",
+      "size": 374,
+      "hash": "sha256-559f1d17adb878e68d18299a21c91efc7d2b3c05c8c5f9c478447c792c64ef50",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/scheduler/scheduler_config.json"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/text_encoder/model.onnx",
+      "size": 246519878,
+      "hash": "sha256-9c66a0cf951ced6db360061bfe5077829b9dda1b331784fd55abd116712b22fa",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/text_encoder/model.onnx"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/tokenizer/merges.txt",
+      "size": 524619,
+      "hash": "sha256-9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/tokenizer/merges.txt"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/tokenizer/special_tokens_map.json",
+      "size": 133,
+      "hash": "sha256-92e1e31d71a7f63cd75b4dfa1469377bd2cd6b8292cf70b3ff5b7082b0edc1c9",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/tokenizer/special_tokens_map.json"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/tokenizer/tokenizer_config.json",
+      "size": 765,
+      "hash": "sha256-47c69084af647bc277b858faaa9871175a95eb4d36cd98a6d04039305613ceff",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/tokenizer/tokenizer_config.json"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/tokenizer/vocab.json",
+      "size": 1059962,
+      "hash": "sha256-e089ad92ba36837a0d31433e555c8f45fe601ab5c221d4f607ded32d9f7a4349",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/tokenizer/vocab.json"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/unet/model.onnx",
+      "size": 1724656160,
+      "hash": "sha256-76472685e58e6ec08c9b78eb5e0b8ab7fcdc29d6cde01c65e0a502fd267de0c0",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/unet/model.onnx"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/vae_decoder/model.onnx",
+      "size": 99129787,
+      "hash": "sha256-cc43e6ee279291c7deb736dea60308435d83831ce9b5cdcfc35f17c8f113dbd1",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/vae_decoder/model.onnx"
+    },
+    {
+      "relativePath": "Assets/Figure/models/sd15_controlnet/vae_encoder/model.onnx",
+      "size": 136760235,
+      "hash": "sha256-9c7f8fd688b81c56060a4f3b210913ac7374303659759eb155cc6af68a1f4b49",
+      "zipEntryName": "Assets/Figure/models/sd15_controlnet/vae_encoder/model.onnx"
+    }
+  ],
+  "slices": [
+    {
+      "sliceId": "0001",
+      "fileName": "data_0000.bin",
+      "size": 16777216,
+      "offset": 0,
+      "length": 16777216,
+      "hash": "sha256-f4a24e7d37e857e796e172166a889c131c1d10e6a18adbb0cabdf64465410d76",
+      "zipPartIndex": 0
+    },
+    {
+      "sliceId": "0002",
+      "fileName": "data_0001.bin",
+      "size": 16777216,
+      "offset": 16777216,
+      "length": 16777216,
+      "hash": "sha256-07e7dd6d4c18c40b19c3d7b5f63b1880e9a34815c8c11341fe0669de8ed3062f",
+      "zipPartIndex": 1
+    },
+    {
+      "sliceId": "0003",
+      "fileName": "data_0002.bin",
+      "size": 16777216,
+      "offset": 33554432,
+      "length": 16777216,
+      "hash": "sha256-945a60b02db28215b83516f6e06d2cc50aa321af6443ffe0b4351a91b2d707ca",
+      "zipPartIndex": 2
+    },
+    {
+      "sliceId": "0004",
+      "fileName": "data_0003.bin",
+      "size": 16777216,
+      "offset": 50331648,
+      "length": 16777216,
+      "hash": "sha256-912d2a55e0f3a912dbc81cc1c17258aa866db0391d58aa8bff3fdbc8e8ab3a6b",
+      "zipPartIndex": 3
+    },
+    {
+      "sliceId": "0005",
+      "fileName": "data_0004.bin",
+      "size": 16777216,
+      "offset": 67108864,
+      "length": 16777216,
+      "hash": "sha256-45d9de41fe2a395a075b302bebe77ea69ec22fa07b32d05d8796fef5effc131a",
+      "zipPartIndex": 4
+    },
+    {
+      "sliceId": "0006",
+      "fileName": "data_0005.bin",
+      "size": 16777216,
+      "offset": 83886080,
+      "length": 16777216,
+      "hash": "sha256-7a53586fc0cce98f35cc4b4082845c20c374c69c5ebae1fd0917b28ab57aa7ec",
+      "zipPartIndex": 5
+    },
+    {
+      "sliceId": "0007",
+      "fileName": "data_0006.bin",
+      "size": 16777216,
+      "offset": 100663296,
+      "length": 16777216,
+      "hash": "sha256-8924a9764c38560c5e4fdcfe08f8df4aa052c3de0d6360cb2d56f2aade91377c",
+      "zipPartIndex": 6
+    },
+    {
+      "sliceId": "0008",
+      "fileName": "data_0007.bin",
+      "size": 16777216,
+      "offset": 117440512,
+      "length": 16777216,
+      "hash": "sha256-752da2635cce543825fb00019663d8349a0966dfe0217605e18b3fa23afcd394",
+      "zipPartIndex": 7
+    },
+    {
+      "sliceId": "0009",
+      "fileName": "data_0008.bin",
+      "size": 16777216,
+      "offset": 134217728,
+      "length": 16777216,
+      "hash": "sha256-1d7defa778d4d9faf3230c78625f609b2065bbb85851c8ff153355b9e329e4f6",
+      "zipPartIndex": 8
+    },
+    {
+      "sliceId": "0010",
+      "fileName": "data_0009.bin",
+      "size": 16777216,
+      "offset": 150994944,
+      "length": 16777216,
+      "hash": "sha256-687d3dfff3ccc731d6ce705c08373ad78c1a37c4a74360bff03d9176e682508e",
+      "zipPartIndex": 9
+    },
+    {
+      "sliceId": "0011",
+      "fileName": "data_0010.bin",
+      "size": 16777216,
+      "offset": 167772160,
+      "length": 16777216,
+      "hash": "sha256-4d59eee8ab53462708f23a3a77893301b46b4bb303a2667a0971b77fb55b2ac1",
+      "zipPartIndex": 10
+    },
+    {
+      "sliceId": "0012",
+      "fileName": "data_0011.bin",
+      "size": 16777216,
+      "offset": 184549376,
+      "length": 16777216,
+      "hash": "sha256-4f4b54076488146df56c66e3b7ee5a40ec8fe01c99ea301ba08bf3092eaae3d4",
+      "zipPartIndex": 11
+    },
+    {
+      "sliceId": "0013",
+      "fileName": "data_0012.bin",
+      "size": 16777216,
+      "offset": 201326592,
+      "length": 16777216,
+      "hash": "sha256-5700393c85a343d03233a02ead883278a5fcb8491135842c9afecd76e6f3213f",
+      "zipPartIndex": 12
+    },
+    {
+      "sliceId": "0014",
+      "fileName": "data_0013.bin",
+      "size": 16777216,
+      "offset": 218103808,
+      "length": 16777216,
+      "hash": "sha256-3fbb9408a62d97b12a01ce2aa80158f214e0e48135a1c9134b342d2b54d6b0cb",
+      "zipPartIndex": 13
+    },
+    {
+      "sliceId": "0015",
+      "fileName": "data_0014.bin",
+      "size": 16777216,
+      "offset": 234881024,
+      "length": 16777216,
+      "hash": "sha256-94a8d1ba362d16fd99ed2c80357b9ed12053db7ef2681b083a83d8330e898b62",
+      "zipPartIndex": 14
+    },
+    {
+      "sliceId": "0016",
+      "fileName": "data_0015.bin",
+      "size": 16777216,
+      "offset": 251658240,
+      "length": 16777216,
+      "hash": "sha256-8df6797a23fbaee968eaad98c09e26d7ccb5d80644ee05f860c05b99520d80e1",
+      "zipPartIndex": 15
+    },
+    {
+      "sliceId": "0017",
+      "fileName": "data_0016.bin",
+      "size": 16777216,
+      "offset": 268435456,
+      "length": 16777216,
+      "hash": "sha256-b4e32fc56a6f3778bf0bc5e75ed380f0456619ba4d3e580a9b5e1d12321abc9d",
+      "zipPartIndex": 16
+    },
+    {
+      "sliceId": "0018",
+      "fileName": "data_0017.bin",
+      "size": 16777216,
+      "offset": 285212672,
+      "length": 16777216,
+      "hash": "sha256-7463669ca0fb97f3f8d1cda5e3fe135d7757a676eba795845ac8e56fe6303ff4",
+      "zipPartIndex": 17
+    },
+    {
+      "sliceId": "0019",
+      "fileName": "data_0018.bin",
+      "size": 16777216,
+      "offset": 301989888,
+      "length": 16777216,
+      "hash": "sha256-5f9fbc9231f5e848286bf56938655c32f2c3e9c6e0c3ada3958cb266f0a30d32",
+      "zipPartIndex": 18
+    },
+    {
+      "sliceId": "0020",
+      "fileName": "data_0019.bin",
+      "size": 16777216,
+      "offset": 318767104,
+      "length": 16777216,
+      "hash": "sha256-4078ab751002ef1990fd0e732f9ff810cd0905042a5845ee9e6c21e752cc1b90",
+      "zipPartIndex": 19
+    },
+    {
+      "sliceId": "0021",
+      "fileName": "data_0020.bin",
+      "size": 16777216,
+      "offset": 335544320,
+      "length": 16777216,
+      "hash": "sha256-3e89caeb9fae217cacc336d456a25ebe4427e3ee2c6cb6e370e27439ef061243",
+      "zipPartIndex": 20
+    },
+    {
+      "sliceId": "0022",
+      "fileName": "data_0021.bin",
+      "size": 16777216,
+      "offset": 352321536,
+      "length": 16777216,
+      "hash": "sha256-fd9c6455dc84d0fb0a97b49c40251055111bd1a27b335366fbc59713293f08bc",
+      "zipPartIndex": 21
+    },
+    {
+      "sliceId": "0023",
+      "fileName": "data_0022.bin",
+      "size": 16777216,
+      "offset": 369098752,
+      "length": 16777216,
+      "hash": "sha256-720dc674091ae1518586bbdac74a86ef4a227d26f7bad3b1dc1ef5b87e10e900",
+      "zipPartIndex": 22
+    },
+    {
+      "sliceId": "0024",
+      "fileName": "data_0023.bin",
+      "size": 16777216,
+      "offset": 385875968,
+      "length": 16777216,
+      "hash": "sha256-6f0652f12053eebcaa9de9a28b1193687c672f82dd99e044feb897661ab87063",
+      "zipPartIndex": 23
+    },
+    {
+      "sliceId": "0025",
+      "fileName": "data_0024.bin",
+      "size": 16777216,
+      "offset": 402653184,
+      "length": 16777216,
+      "hash": "sha256-3fe216bf6896d7f1071f253280f6d0ced32cee8d1ec1c76c1aaacaa238497eef",
+      "zipPartIndex": 24
+    },
+    {
+      "sliceId": "0026",
+      "fileName": "data_0025.bin",
+      "size": 16777216,
+      "offset": 419430400,
+      "length": 16777216,
+      "hash": "sha256-cb42ca6bba5ca25ad62bd03188f3ba20bd37b443dbedf9a23d7a56e16e908749",
+      "zipPartIndex": 25
+    },
+    {
+      "sliceId": "0027",
+      "fileName": "data_0026.bin",
+      "size": 16777216,
+      "offset": 436207616,
+      "length": 16777216,
+      "hash": "sha256-c578024d25d3c4617f9bce7f75ac3961596feeffa7e270f7562c71b35d5a1622",
+      "zipPartIndex": 26
+    },
+    {
+      "sliceId": "0028",
+      "fileName": "data_0027.bin",
+      "size": 16777216,
+      "offset": 452984832,
+      "length": 16777216,
+      "hash": "sha256-c71a74116a0faa1906cdcde4b5730737fd5f3ef11826939959a5ed26c96b1f92",
+      "zipPartIndex": 27
+    },
+    {
+      "sliceId": "0029",
+      "fileName": "data_0028.bin",
+      "size": 16777216,
+      "offset": 469762048,
+      "length": 16777216,
+      "hash": "sha256-481dfedbe217accb0516f49b74d8815778d7714ee986a3a0e08961e0db323108",
+      "zipPartIndex": 28
+    },
+    {
+      "sliceId": "0030",
+      "fileName": "data_0029.bin",
+      "size": 16777216,
+      "offset": 486539264,
+      "length": 16777216,
+      "hash": "sha256-3ccd524e2950652b3533f28b31499530512a8467b631077f5364e3a677f2dced",
+      "zipPartIndex": 29
+    },
+    {
+      "sliceId": "0031",
+      "fileName": "data_0030.bin",
+      "size": 16777216,
+      "offset": 503316480,
+      "length": 16777216,
+      "hash": "sha256-0128d74d2443c14fb2a3826a7282467659c7be8557f345dcb363b329e6f8918a",
+      "zipPartIndex": 30
+    },
+    {
+      "sliceId": "0032",
+      "fileName": "data_0031.bin",
+      "size": 16777216,
+      "offset": 520093696,
+      "length": 16777216,
+      "hash": "sha256-6e9437d79ee489a9a227817d784edd8141672116623253374878bf6962dc05dc",
+      "zipPartIndex": 31
+    },
+    {
+      "sliceId": "0033",
+      "fileName": "data_0032.bin",
+      "size": 16777216,
+      "offset": 536870912,
+      "length": 16777216,
+      "hash": "sha256-7f846266cdf4f8176a86506e66d9b40a111eb77847ccaef48838a44b6161ce55",
+      "zipPartIndex": 32
+    },
+    {
+      "sliceId": "0034",
+      "fileName": "data_0033.bin",
+      "size": 16777216,
+      "offset": 553648128,
+      "length": 16777216,
+      "hash": "sha256-ae0a99c9c0c1df555d2e720173868f4a362338f400217dad1310562e80a80b93",
+      "zipPartIndex": 33
+    },
+    {
+      "sliceId": "0035",
+      "fileName": "data_0034.bin",
+      "size": 16777216,
+      "offset": 570425344,
+      "length": 16777216,
+      "hash": "sha256-210b9d932867d34190ff5f587199299111f11ed3a175414d23675a1d77bc38c2",
+      "zipPartIndex": 34
+    },
+    {
+      "sliceId": "0036",
+      "fileName": "data_0035.bin",
+      "size": 16777216,
+      "offset": 587202560,
+      "length": 16777216,
+      "hash": "sha256-160d7613d0cbcc237c865344e92bce7c574972e00a77c7b12f6ced805a881496",
+      "zipPartIndex": 35
+    },
+    {
+      "sliceId": "0037",
+      "fileName": "data_0036.bin",
+      "size": 16777216,
+      "offset": 603979776,
+      "length": 16777216,
+      "hash": "sha256-6b2df136f0fbbff8e5e6221ebcec9e31020117893cf5825ce54c8d8ea2209fdd",
+      "zipPartIndex": 36
+    },
+    {
+      "sliceId": "0038",
+      "fileName": "data_0037.bin",
+      "size": 16777216,
+      "offset": 620756992,
+      "length": 16777216,
+      "hash": "sha256-c48968f5f0c861b5c4101f568fb75332db1ba126523989f1da2bd9bc2b98f944",
+      "zipPartIndex": 37
+    },
+    {
+      "sliceId": "0039",
+      "fileName": "data_0038.bin",
+      "size": 16777216,
+      "offset": 637534208,
+      "length": 16777216,
+      "hash": "sha256-2e7fe8c9ae2e94020053e6b633dcac4e2605b2b611e46e54c9008b6dc45685cd",
+      "zipPartIndex": 38
+    },
+    {
+      "sliceId": "0040",
+      "fileName": "data_0039.bin",
+      "size": 16777216,
+      "offset": 654311424,
+      "length": 16777216,
+      "hash": "sha256-ef5605c6b01d970dc653d2870e87c0a015ed6ad710dd2a534778f6d91e043909",
+      "zipPartIndex": 39
+    },
+    {
+      "sliceId": "0041",
+      "fileName": "data_0040.bin",
+      "size": 16777216,
+      "offset": 671088640,
+      "length": 16777216,
+      "hash": "sha256-fa97d16a21d8e5ddfe625dc0159410ee8795847a42413b6bcffbe70ac3dd90f9",
+      "zipPartIndex": 40
+    },
+    {
+      "sliceId": "0042",
+      "fileName": "data_0041.bin",
+      "size": 16777216,
+      "offset": 687865856,
+      "length": 16777216,
+      "hash": "sha256-b56df72564f4a2261805a36df9c442860f66566d7b4abf3bd44b57302f06e51e",
+      "zipPartIndex": 41
+    },
+    {
+      "sliceId": "0043",
+      "fileName": "data_0042.bin",
+      "size": 16777216,
+      "offset": 704643072,
+      "length": 16777216,
+      "hash": "sha256-c2b3f49e94d58b48d07106f0a9ce4d2fad85ebde47eb9d2c6333327b704a058d",
+      "zipPartIndex": 42
+    },
+    {
+      "sliceId": "0044",
+      "fileName": "data_0043.bin",
+      "size": 16777216,
+      "offset": 721420288,
+      "length": 16777216,
+      "hash": "sha256-38c83f9dab95d7d823914f50d86e7fa00482ba550369bba868017636dc23426c",
+      "zipPartIndex": 43
+    },
+    {
+      "sliceId": "0045",
+      "fileName": "data_0044.bin",
+      "size": 16777216,
+      "offset": 738197504,
+      "length": 16777216,
+      "hash": "sha256-b335f64396ddd3754179288f0236f5f6be064edd4d1192d28584bf4b13756d92",
+      "zipPartIndex": 44
+    },
+    {
+      "sliceId": "0046",
+      "fileName": "data_0045.bin",
+      "size": 16777216,
+      "offset": 754974720,
+      "length": 16777216,
+      "hash": "sha256-8c30095b3a21526d2b80bc26e0e3ff33f8fa03223454e96c6cfe60756614543f",
+      "zipPartIndex": 45
+    },
+    {
+      "sliceId": "0047",
+      "fileName": "data_0046.bin",
+      "size": 16777216,
+      "offset": 771751936,
+      "length": 16777216,
+      "hash": "sha256-40f5c6b9ddc3b83917beb7c954b7a210fc7b03eb51f82d2e24025acdd6b5570c",
+      "zipPartIndex": 46
+    },
+    {
+      "sliceId": "0048",
+      "fileName": "data_0047.bin",
+      "size": 16777216,
+      "offset": 788529152,
+      "length": 16777216,
+      "hash": "sha256-4ca9833537ae824bb5939cd93cf01561b758d6332b671ec0a7dc30e7a2993429",
+      "zipPartIndex": 47
+    },
+    {
+      "sliceId": "0049",
+      "fileName": "data_0048.bin",
+      "size": 16777216,
+      "offset": 805306368,
+      "length": 16777216,
+      "hash": "sha256-f1507e865d79553e9ac5e79757f532d5883c4d2f792d4d1a2d6097aa769a6049",
+      "zipPartIndex": 48
+    },
+    {
+      "sliceId": "0050",
+      "fileName": "data_0049.bin",
+      "size": 16777216,
+      "offset": 822083584,
+      "length": 16777216,
+      "hash": "sha256-fae97b59e3d62fad3d0e4f29d6f60b41547e551c329be6704c862a019e943a9e",
+      "zipPartIndex": 49
+    },
+    {
+      "sliceId": "0051",
+      "fileName": "data_0050.bin",
+      "size": 16777216,
+      "offset": 838860800,
+      "length": 16777216,
+      "hash": "sha256-9c60075a70bcc8adec896af147d31b3fd10de023eef75d21fb26ba6780b98846",
+      "zipPartIndex": 50
+    },
+    {
+      "sliceId": "0052",
+      "fileName": "data_0051.bin",
+      "size": 16777216,
+      "offset": 855638016,
+      "length": 16777216,
+      "hash": "sha256-8ee070c2bd4a53495689e298d4afdd79631987a593ec11efdb16d0cfeae2c32a",
+      "zipPartIndex": 51
+    },
+    {
+      "sliceId": "0053",
+      "fileName": "data_0052.bin",
+      "size": 16777216,
+      "offset": 872415232,
+      "length": 16777216,
+      "hash": "sha256-a8c0a8fde70b1c875319e3d59bb23cdee3ba9626c16945fa7d243bcb479d94d9",
+      "zipPartIndex": 52
+    },
+    {
+      "sliceId": "0054",
+      "fileName": "data_0053.bin",
+      "size": 16777216,
+      "offset": 889192448,
+      "length": 16777216,
+      "hash": "sha256-9c2638695238907c6bc47327a91a00250f9d8207c84c86b13bbe9f4a13f50aed",
+      "zipPartIndex": 53
+    },
+    {
+      "sliceId": "0055",
+      "fileName": "data_0054.bin",
+      "size": 16777216,
+      "offset": 905969664,
+      "length": 16777216,
+      "hash": "sha256-0a0fecba8237532f94dd8748e612101f3a6e8cca67bc98a5d836e69ba7bd70f1",
+      "zipPartIndex": 54
+    },
+    {
+      "sliceId": "0056",
+      "fileName": "data_0055.bin",
+      "size": 16777216,
+      "offset": 922746880,
+      "length": 16777216,
+      "hash": "sha256-3922eaf5cea3111e8f371fec5d4005a881414423706c32d4e46f8c8646823ca4",
+      "zipPartIndex": 55
+    },
+    {
+      "sliceId": "0057",
+      "fileName": "data_0056.bin",
+      "size": 16777216,
+      "offset": 939524096,
+      "length": 16777216,
+      "hash": "sha256-017d9c9c690f67e55e2d21cea85036a6dd41ba7285692628bb466ad711c001a4",
+      "zipPartIndex": 56
+    },
+    {
+      "sliceId": "0058",
+      "fileName": "data_0057.bin",
+      "size": 16777216,
+      "offset": 956301312,
+      "length": 16777216,
+      "hash": "sha256-205c88818b7732493c2c0bbe3b57472a3762e098118cda9dedc7c7668bb68a3e",
+      "zipPartIndex": 57
+    },
+    {
+      "sliceId": "0059",
+      "fileName": "data_0058.bin",
+      "size": 16777216,
+      "offset": 973078528,
+      "length": 16777216,
+      "hash": "sha256-b3b04d931b2d6658e7d390b4d2155173451acffabf9767896b4c1e41444baece",
+      "zipPartIndex": 58
+    },
+    {
+      "sliceId": "0060",
+      "fileName": "data_0059.bin",
+      "size": 16777216,
+      "offset": 989855744,
+      "length": 16777216,
+      "hash": "sha256-0b690092bb4f663587c8c5df78c7a36c142cd0f1ff9fa13fa9889e14a1aed685",
+      "zipPartIndex": 59
+    },
+    {
+      "sliceId": "0061",
+      "fileName": "data_0060.bin",
+      "size": 16777216,
+      "offset": 1006632960,
+      "length": 16777216,
+      "hash": "sha256-84300689e50ec9c68c8105ccac1daf4afdee16b54605b194c37b18b3f510125b",
+      "zipPartIndex": 60
+    },
+    {
+      "sliceId": "0062",
+      "fileName": "data_0061.bin",
+      "size": 16777216,
+      "offset": 1023410176,
+      "length": 16777216,
+      "hash": "sha256-6facdd866db23222cbdad03e0de1595976145f91720b85b9ae5a95952f697575",
+      "zipPartIndex": 61
+    },
+    {
+      "sliceId": "0063",
+      "fileName": "data_0062.bin",
+      "size": 16777216,
+      "offset": 1040187392,
+      "length": 16777216,
+      "hash": "sha256-680f6bfbf7d6f384432ef5cc525ae33165e524743c0bc650d7a3b4c4fe2dff85",
+      "zipPartIndex": 62
+    },
+    {
+      "sliceId": "0064",
+      "fileName": "data_0063.bin",
+      "size": 16777216,
+      "offset": 1056964608,
+      "length": 16777216,
+      "hash": "sha256-c2d0255c733bca165a6d44ff7ed33f0f63501855342a8b1880988cb48adf5597",
+      "zipPartIndex": 63
+    },
+    {
+      "sliceId": "0065",
+      "fileName": "data_0064.bin",
+      "size": 16777216,
+      "offset": 1073741824,
+      "length": 16777216,
+      "hash": "sha256-bb29bb43bd5e06f41b7aa00a63de0312dc38e202fda69dab8b4057726200e938",
+      "zipPartIndex": 64
+    },
+    {
+      "sliceId": "0066",
+      "fileName": "data_0065.bin",
+      "size": 16777216,
+      "offset": 1090519040,
+      "length": 16777216,
+      "hash": "sha256-37d1172f03eb4c5c2345d7c7adb9d2e999f6607d7db73dbd43c9e24c63a8648e",
+      "zipPartIndex": 65
+    },
+    {
+      "sliceId": "0067",
+      "fileName": "data_0066.bin",
+      "size": 16777216,
+      "offset": 1107296256,
+      "length": 16777216,
+      "hash": "sha256-43995666882506b87b5af2feb49482ddf58db7580cb44c38962027681bd563c5",
+      "zipPartIndex": 66
+    },
+    {
+      "sliceId": "0068",
+      "fileName": "data_0067.bin",
+      "size": 16777216,
+      "offset": 1124073472,
+      "length": 16777216,
+      "hash": "sha256-c441ff91b066eba20f5975c017d62fd2ace98e692aa14fe6ff5dab3410701d6e",
+      "zipPartIndex": 67
+    },
+    {
+      "sliceId": "0069",
+      "fileName": "data_0068.bin",
+      "size": 16777216,
+      "offset": 1140850688,
+      "length": 16777216,
+      "hash": "sha256-8f23c1164a2a693839966aeadf271b2807b1d9e6d91ec09c6ba93d873f285bf3",
+      "zipPartIndex": 68
+    },
+    {
+      "sliceId": "0070",
+      "fileName": "data_0069.bin",
+      "size": 16777216,
+      "offset": 1157627904,
+      "length": 16777216,
+      "hash": "sha256-b7f07e564baf64154b88e1309665e419dbad322c0ad159f72f0dcf611deab8e6",
+      "zipPartIndex": 69
+    },
+    {
+      "sliceId": "0071",
+      "fileName": "data_0070.bin",
+      "size": 16777216,
+      "offset": 1174405120,
+      "length": 16777216,
+      "hash": "sha256-72718c8df5ed53e6d240b0b40fb3f47c6d18647d6ab12f3850f764613aa5c544",
+      "zipPartIndex": 70
+    },
+    {
+      "sliceId": "0072",
+      "fileName": "data_0071.bin",
+      "size": 16777216,
+      "offset": 1191182336,
+      "length": 16777216,
+      "hash": "sha256-48def40c46706e01b7c276b12aed6692a5c3fad1451821161767980af4f87ec4",
+      "zipPartIndex": 71
+    },
+    {
+      "sliceId": "0073",
+      "fileName": "data_0072.bin",
+      "size": 16777216,
+      "offset": 1207959552,
+      "length": 16777216,
+      "hash": "sha256-dd29748c41fae4e14328406739d618a7860464003d0a3c36fd24e999e3474f77",
+      "zipPartIndex": 72
+    },
+    {
+      "sliceId": "0074",
+      "fileName": "data_0073.bin",
+      "size": 16777216,
+      "offset": 1224736768,
+      "length": 16777216,
+      "hash": "sha256-ca8a7dd64561c3e0889c15e54dc3fe8f70f9d08b05845395b41a7986659050e5",
+      "zipPartIndex": 73
+    },
+    {
+      "sliceId": "0075",
+      "fileName": "data_0074.bin",
+      "size": 16777216,
+      "offset": 1241513984,
+      "length": 16777216,
+      "hash": "sha256-695130f2d7f0e59b690cae188dd69d8aa5749d6eb9e39dfea1a5d6f388718fbf",
+      "zipPartIndex": 74
+    },
+    {
+      "sliceId": "0076",
+      "fileName": "data_0075.bin",
+      "size": 16777216,
+      "offset": 1258291200,
+      "length": 16777216,
+      "hash": "sha256-4443d6ce438f229b1892531c700ae4a575adc7eb03016c0841e2ed1ef0f6aee6",
+      "zipPartIndex": 75
+    },
+    {
+      "sliceId": "0077",
+      "fileName": "data_0076.bin",
+      "size": 16777216,
+      "offset": 1275068416,
+      "length": 16777216,
+      "hash": "sha256-8854237faef9b8692d7d13b4de93e0e2a586183b9ec06b2c064826d89789fe4e",
+      "zipPartIndex": 76
+    },
+    {
+      "sliceId": "0078",
+      "fileName": "data_0077.bin",
+      "size": 16777216,
+      "offset": 1291845632,
+      "length": 16777216,
+      "hash": "sha256-66062e4b6c6a356633ea36ba5271e6fc0e6933f42abd35b85deeedf01e10baca",
+      "zipPartIndex": 77
+    },
+    {
+      "sliceId": "0079",
+      "fileName": "data_0078.bin",
+      "size": 16777216,
+      "offset": 1308622848,
+      "length": 16777216,
+      "hash": "sha256-4f4c486d267ffa53c43f78ad09c77d9fd4a889f266d93cadf30ae0b67a78e03f",
+      "zipPartIndex": 78
+    },
+    {
+      "sliceId": "0080",
+      "fileName": "data_0079.bin",
+      "size": 16777216,
+      "offset": 1325400064,
+      "length": 16777216,
+      "hash": "sha256-84e9bc0adabe7a2d26d58fbd6e0a38edd5c645699a497cbadcd9c5189e011b06",
+      "zipPartIndex": 79
+    },
+    {
+      "sliceId": "0081",
+      "fileName": "data_0080.bin",
+      "size": 16777216,
+      "offset": 1342177280,
+      "length": 16777216,
+      "hash": "sha256-b834ba8eb9ce321ac86e88ce29e2c2f7bba51bb3dc6afee35aa6e38ca19b3fbb",
+      "zipPartIndex": 80
+    },
+    {
+      "sliceId": "0082",
+      "fileName": "data_0081.bin",
+      "size": 16777216,
+      "offset": 1358954496,
+      "length": 16777216,
+      "hash": "sha256-b75027af0b278a4e623cc623be94e789eb4b919ad55953c27203fb9e1a7407bf",
+      "zipPartIndex": 81
+    },
+    {
+      "sliceId": "0083",
+      "fileName": "data_0082.bin",
+      "size": 16777216,
+      "offset": 1375731712,
+      "length": 16777216,
+      "hash": "sha256-8e608db0414ea840e72caead775c61b6a983c29694d680b215a7e53d23b1d361",
+      "zipPartIndex": 82
+    },
+    {
+      "sliceId": "0084",
+      "fileName": "data_0083.bin",
+      "size": 16777216,
+      "offset": 1392508928,
+      "length": 16777216,
+      "hash": "sha256-f295eb127025b4efbec1ae14967b6a18d99255b3148de33dba56d34f20d69d1d",
+      "zipPartIndex": 83
+    },
+    {
+      "sliceId": "0085",
+      "fileName": "data_0084.bin",
+      "size": 16777216,
+      "offset": 1409286144,
+      "length": 16777216,
+      "hash": "sha256-0bc2884b5e594f3a1cce96c47ad379c135e62f21c075ebf94f3a60d72b523698",
+      "zipPartIndex": 84
+    },
+    {
+      "sliceId": "0086",
+      "fileName": "data_0085.bin",
+      "size": 16777216,
+      "offset": 1426063360,
+      "length": 16777216,
+      "hash": "sha256-347b0b13a6e8e4a97435bf1ae46eca4c380a02473b8924043d715783ab548feb",
+      "zipPartIndex": 85
+    },
+    {
+      "sliceId": "0087",
+      "fileName": "data_0086.bin",
+      "size": 16777216,
+      "offset": 1442840576,
+      "length": 16777216,
+      "hash": "sha256-6be97d79a25567c5d75d1aac7b506145cc990e83187e0597475d3dd2fd5b73f6",
+      "zipPartIndex": 86
+    },
+    {
+      "sliceId": "0088",
+      "fileName": "data_0087.bin",
+      "size": 16777216,
+      "offset": 1459617792,
+      "length": 16777216,
+      "hash": "sha256-8ff38cff30f0a0c5ac4591d5fe9d4d1d55a7e0d2134d8764be8906e420ea9828",
+      "zipPartIndex": 87
+    },
+    {
+      "sliceId": "0089",
+      "fileName": "data_0088.bin",
+      "size": 16777216,
+      "offset": 1476395008,
+      "length": 16777216,
+      "hash": "sha256-ffb9d6862f3fd6a95212a32b4b21156d19de438a1dc143ab689b8b374e3dce6b",
+      "zipPartIndex": 88
+    },
+    {
+      "sliceId": "0090",
+      "fileName": "data_0089.bin",
+      "size": 16777216,
+      "offset": 1493172224,
+      "length": 16777216,
+      "hash": "sha256-e524788bf0a4e6619cd2111077918ddf083155d5a0cfa16eb8040c79057c0fb3",
+      "zipPartIndex": 89
+    },
+    {
+      "sliceId": "0091",
+      "fileName": "data_0090.bin",
+      "size": 16777216,
+      "offset": 1509949440,
+      "length": 16777216,
+      "hash": "sha256-814411a27b5fb8691e54727f10b1bb78cf67430e2eea6eb7e9c27228e39406a9",
+      "zipPartIndex": 90
+    },
+    {
+      "sliceId": "0092",
+      "fileName": "data_0091.bin",
+      "size": 16777216,
+      "offset": 1526726656,
+      "length": 16777216,
+      "hash": "sha256-edacbc09f924689813c75b216f0baf0ddc3168cd1fc98b824fb4a21746f5ff69",
+      "zipPartIndex": 91
+    },
+    {
+      "sliceId": "0093",
+      "fileName": "data_0092.bin",
+      "size": 16777216,
+      "offset": 1543503872,
+      "length": 16777216,
+      "hash": "sha256-f03ef7e6e60b7c240502ed8970aa7b7059566f3288edcae56e1659a891f4417a",
+      "zipPartIndex": 92
+    },
+    {
+      "sliceId": "0094",
+      "fileName": "data_0093.bin",
+      "size": 16777216,
+      "offset": 1560281088,
+      "length": 16777216,
+      "hash": "sha256-f9a78bed6cb110cce878260ecabda0b6c75505616e266b3d579419ecf9e854e0",
+      "zipPartIndex": 93
+    },
+    {
+      "sliceId": "0095",
+      "fileName": "data_0094.bin",
+      "size": 16777216,
+      "offset": 1577058304,
+      "length": 16777216,
+      "hash": "sha256-3d5aab4e1875ef95a85a9e2b2e8e998ed9d9870a93a0840d23c0fe5f84459e10",
+      "zipPartIndex": 94
+    },
+    {
+      "sliceId": "0096",
+      "fileName": "data_0095.bin",
+      "size": 16777216,
+      "offset": 1593835520,
+      "length": 16777216,
+      "hash": "sha256-57e20b5e52058299d1fd7e2214582c22bf0cf85b27501aeb16595d71131bcf0a",
+      "zipPartIndex": 95
+    },
+    {
+      "sliceId": "0097",
+      "fileName": "data_0096.bin",
+      "size": 16777216,
+      "offset": 1610612736,
+      "length": 16777216,
+      "hash": "sha256-ad59d398e5bcb8a8f79f20180f567df68dc08f48122f392a5ade4596363218f1",
+      "zipPartIndex": 96
+    },
+    {
+      "sliceId": "0098",
+      "fileName": "data_0097.bin",
+      "size": 16777216,
+      "offset": 1627389952,
+      "length": 16777216,
+      "hash": "sha256-1c69ef1429d610fa12554e5ff293dcd932e71526eb18a03c5a86ca1e2d0f9b10",
+      "zipPartIndex": 97
+    },
+    {
+      "sliceId": "0099",
+      "fileName": "data_0098.bin",
+      "size": 16777216,
+      "offset": 1644167168,
+      "length": 16777216,
+      "hash": "sha256-7d6ea2e25c8397e0f46342ea9dec1d80ce03786e155914ef372f510605986521",
+      "zipPartIndex": 98
+    },
+    {
+      "sliceId": "0100",
+      "fileName": "data_0099.bin",
+      "size": 16777216,
+      "offset": 1660944384,
+      "length": 16777216,
+      "hash": "sha256-72067a4283605c1452aae756f24f220486d576f5e01c986f0b78e8aad1490bb0",
+      "zipPartIndex": 99
+    },
+    {
+      "sliceId": "0101",
+      "fileName": "data_0100.bin",
+      "size": 16777216,
+      "offset": 1677721600,
+      "length": 16777216,
+      "hash": "sha256-e2b840b3ee2aae1d2dc3ff1d3ca79839bd95fc7f31ef33e3a8fb0fbf8d97629f",
+      "zipPartIndex": 100
+    },
+    {
+      "sliceId": "0102",
+      "fileName": "data_0101.bin",
+      "size": 16777216,
+      "offset": 1694498816,
+      "length": 16777216,
+      "hash": "sha256-d39963a4f7537b9f6e312db5661f2c14c9e1457707f3dfb3c814164cd4a0fd18",
+      "zipPartIndex": 101
+    },
+    {
+      "sliceId": "0103",
+      "fileName": "data_0102.bin",
+      "size": 16777216,
+      "offset": 1711276032,
+      "length": 16777216,
+      "hash": "sha256-cdcf0254db537a7b26463f216692574cebf03477802983c2424cf3489599d4a0",
+      "zipPartIndex": 102
+    },
+    {
+      "sliceId": "0104",
+      "fileName": "data_0103.bin",
+      "size": 16777216,
+      "offset": 1728053248,
+      "length": 16777216,
+      "hash": "sha256-dc39f4c6ecd9de3c3c04b2cc49f477c079b707724e5acf82e2366103441a0628",
+      "zipPartIndex": 103
+    },
+    {
+      "sliceId": "0105",
+      "fileName": "data_0104.bin",
+      "size": 16777216,
+      "offset": 1744830464,
+      "length": 16777216,
+      "hash": "sha256-f475ba7251c0fc0996903b7a405a11f1259e971f021647225a2907c89afcae0b",
+      "zipPartIndex": 104
+    },
+    {
+      "sliceId": "0106",
+      "fileName": "data_0105.bin",
+      "size": 16777216,
+      "offset": 1761607680,
+      "length": 16777216,
+      "hash": "sha256-20d009613381270286ac10ceb40b4f59a6d43b1099dfbe31ff9f5466db7407f0",
+      "zipPartIndex": 105
+    },
+    {
+      "sliceId": "0107",
+      "fileName": "data_0106.bin",
+      "size": 16777216,
+      "offset": 1778384896,
+      "length": 16777216,
+      "hash": "sha256-f688dad26bed4818100d3dfa117f44649da0483b1cb8907ff0800c3b902ce262",
+      "zipPartIndex": 106
+    },
+    {
+      "sliceId": "0108",
+      "fileName": "data_0107.bin",
+      "size": 16777216,
+      "offset": 1795162112,
+      "length": 16777216,
+      "hash": "sha256-a55223012c0884924c4d2021e2932118def33d073dc6832372c0a01ac1d6c319",
+      "zipPartIndex": 107
+    },
+    {
+      "sliceId": "0109",
+      "fileName": "data_0108.bin",
+      "size": 16777216,
+      "offset": 1811939328,
+      "length": 16777216,
+      "hash": "sha256-ebcc688ffaf23cab2327c5221c8d9c1621e949bbcc59be0412e94c17ca611620",
+      "zipPartIndex": 108
+    },
+    {
+      "sliceId": "0110",
+      "fileName": "data_0109.bin",
+      "size": 16777216,
+      "offset": 1828716544,
+      "length": 16777216,
+      "hash": "sha256-1d00cc701eb00b9ee8f2158ffe66213b86e8a5eab53ec1ba08974b37ac2cd1ac",
+      "zipPartIndex": 109
+    },
+    {
+      "sliceId": "0111",
+      "fileName": "data_0110.bin",
+      "size": 16777216,
+      "offset": 1845493760,
+      "length": 16777216,
+      "hash": "sha256-14b87d5bd7648f9dfe7aba0bdaf4647685038da7fc5f0358cef7be6535e0461e",
+      "zipPartIndex": 110
+    },
+    {
+      "sliceId": "0112",
+      "fileName": "data_0111.bin",
+      "size": 16777216,
+      "offset": 1862270976,
+      "length": 16777216,
+      "hash": "sha256-07cc1539393bd5a5dc29bfe567a6edaced3d21419e4ebdbb0d53b5cb1c82566a",
+      "zipPartIndex": 111
+    },
+    {
+      "sliceId": "0113",
+      "fileName": "data_0112.bin",
+      "size": 16777216,
+      "offset": 1879048192,
+      "length": 16777216,
+      "hash": "sha256-fa3b029005f83ec5f26645a62c9dd08fdc437e9ff461ea5f54e24ec33f5299f5",
+      "zipPartIndex": 112
+    },
+    {
+      "sliceId": "0114",
+      "fileName": "data_0113.bin",
+      "size": 16777216,
+      "offset": 1895825408,
+      "length": 16777216,
+      "hash": "sha256-a2789870bb36ef854a34ca84747311b1e0f04c5243191ff2f585b877a7fe8f19",
+      "zipPartIndex": 113
+    },
+    {
+      "sliceId": "0115",
+      "fileName": "data_0114.bin",
+      "size": 16777216,
+      "offset": 1912602624,
+      "length": 16777216,
+      "hash": "sha256-8435a5d2464401c877a55a654960ecfa859040fe803b2747d047d9b49f699971",
+      "zipPartIndex": 114
+    },
+    {
+      "sliceId": "0116",
+      "fileName": "data_0115.bin",
+      "size": 16777216,
+      "offset": 1929379840,
+      "length": 16777216,
+      "hash": "sha256-17d498470b56f796e2a7d000819d1bbb0e720e041d7b49baa5da48bbff385b63",
+      "zipPartIndex": 115
+    },
+    {
+      "sliceId": "0117",
+      "fileName": "data_0116.bin",
+      "size": 16777216,
+      "offset": 1946157056,
+      "length": 16777216,
+      "hash": "sha256-437a1b7873a21c8ab739beaa4e6f6b49322208a1a52709f769bb0691587d6dde",
+      "zipPartIndex": 116
+    },
+    {
+      "sliceId": "0118",
+      "fileName": "data_0117.bin",
+      "size": 16777216,
+      "offset": 1962934272,
+      "length": 16777216,
+      "hash": "sha256-3adb614bc61b88d8507e1cbe2b842ba798d8c24c1a341ba23f3cc5444dc03e3f",
+      "zipPartIndex": 117
+    },
+    {
+      "sliceId": "0119",
+      "fileName": "data_0118.bin",
+      "size": 16777216,
+      "offset": 1979711488,
+      "length": 16777216,
+      "hash": "sha256-d49f526340bf99a53a93ce3c0a66bc29af434c665aebfcfcdfd0e830de738e3f",
+      "zipPartIndex": 118
+    },
+    {
+      "sliceId": "0120",
+      "fileName": "data_0119.bin",
+      "size": 16777216,
+      "offset": 1996488704,
+      "length": 16777216,
+      "hash": "sha256-6c371fc3c7d8db634493bf7ae51c347288c6eebc0fc772c9d455ca6d570c797f",
+      "zipPartIndex": 119
+    },
+    {
+      "sliceId": "0121",
+      "fileName": "data_0120.bin",
+      "size": 16777216,
+      "offset": 2013265920,
+      "length": 16777216,
+      "hash": "sha256-bae3b2b766ccf29c393b94d8781dc6023e38c74e1209fe05c1286fc828e19d4d",
+      "zipPartIndex": 120
+    },
+    {
+      "sliceId": "0122",
+      "fileName": "data_0121.bin",
+      "size": 16777216,
+      "offset": 2030043136,
+      "length": 16777216,
+      "hash": "sha256-74e3169f1797b918ac7c4da096fe095f1dee55a990220016466c790fc602817e",
+      "zipPartIndex": 121
+    },
+    {
+      "sliceId": "0123",
+      "fileName": "data_0122.bin",
+      "size": 16777216,
+      "offset": 2046820352,
+      "length": 16777216,
+      "hash": "sha256-04a8101e363167a111c040afe2c043eaa614087268b452f9fc87657c22db2092",
+      "zipPartIndex": 122
+    },
+    {
+      "sliceId": "0124",
+      "fileName": "data_0123.bin",
+      "size": 16777216,
+      "offset": 2063597568,
+      "length": 16777216,
+      "hash": "sha256-40839ef13ca9c76fdba72ce765047720dd6e10caf883458a2df94ba32bf7107b",
+      "zipPartIndex": 123
+    },
+    {
+      "sliceId": "0125",
+      "fileName": "data_0124.bin",
+      "size": 16777216,
+      "offset": 2080374784,
+      "length": 16777216,
+      "hash": "sha256-c4ef0f74ff0e58da9adde927591be285abbb248ae8621704509c550bf739edf1",
+      "zipPartIndex": 124
+    },
+    {
+      "sliceId": "0126",
+      "fileName": "data_0125.bin",
+      "size": 16777216,
+      "offset": 2097152000,
+      "length": 16777216,
+      "hash": "sha256-eba08d075723a651df453144d1da15a10fdcfafc5f5d7bfd65749e211f7442f2",
+      "zipPartIndex": 125
+    },
+    {
+      "sliceId": "0127",
+      "fileName": "data_0126.bin",
+      "size": 16777216,
+      "offset": 2113929216,
+      "length": 16777216,
+      "hash": "sha256-847fc54108e955cd71c22f8c9127b31b4569f71c0a2cc0361750a2c011a55f4e",
+      "zipPartIndex": 126
+    },
+    {
+      "sliceId": "0128",
+      "fileName": "data_0127.bin",
+      "size": 16777216,
+      "offset": 2130706432,
+      "length": 16777216,
+      "hash": "sha256-6365a6a58d27b6f768198438bcb82b3ba5dcbc5bf95c657f27e5e20d2143df92",
+      "zipPartIndex": 127
+    },
+    {
+      "sliceId": "0129",
+      "fileName": "data_0128.bin",
+      "size": 16777216,
+      "offset": 2147483648,
+      "length": 16777216,
+      "hash": "sha256-bda35c7e824c061656e7c1b52283eab943a3407bd0367d5cecfe88ed6284971b",
+      "zipPartIndex": 128
+    },
+    {
+      "sliceId": "0130",
+      "fileName": "data_0129.bin",
+      "size": 16777216,
+      "offset": 2164260864,
+      "length": 16777216,
+      "hash": "sha256-712f96111aaf89fea1dfeb35f3247722b72c28719c01496263c44fe60d49dfa3",
+      "zipPartIndex": 129
+    },
+    {
+      "sliceId": "0131",
+      "fileName": "data_0130.bin",
+      "size": 16777216,
+      "offset": 2181038080,
+      "length": 16777216,
+      "hash": "sha256-63d55eb94691308d2dae42ba3368d3f07b08f4099b2d473d67a04bd0ce1bb24d",
+      "zipPartIndex": 130
+    },
+    {
+      "sliceId": "0132",
+      "fileName": "data_0131.bin",
+      "size": 16777216,
+      "offset": 2197815296,
+      "length": 16777216,
+      "hash": "sha256-da3273df4457ced9f38ebe974e17491197f06a5606faeb00a2e8ae45073257cf",
+      "zipPartIndex": 131
+    },
+    {
+      "sliceId": "0133",
+      "fileName": "data_0132.bin",
+      "size": 16777216,
+      "offset": 2214592512,
+      "length": 16777216,
+      "hash": "sha256-5a21ecb119ef8698f56542c1a4b0ded3573e7c9196ff2562a7ec7d1d8ed5349f",
+      "zipPartIndex": 132
+    },
+    {
+      "sliceId": "0134",
+      "fileName": "data_0133.bin",
+      "size": 16777216,
+      "offset": 2231369728,
+      "length": 16777216,
+      "hash": "sha256-d7c13bc5e17e77ae1fce127bce1856f862455c7b693e4bfa7d9febb1ccbc5c96",
+      "zipPartIndex": 133
+    },
+    {
+      "sliceId": "0135",
+      "fileName": "data_0134.bin",
+      "size": 16777216,
+      "offset": 2248146944,
+      "length": 16777216,
+      "hash": "sha256-3cfb28841bcd150185b2b5d86a580a77de5a977ba1ca4a6e22cfa266c4885429",
+      "zipPartIndex": 134
+    },
+    {
+      "sliceId": "0136",
+      "fileName": "data_0135.bin",
+      "size": 16777216,
+      "offset": 2264924160,
+      "length": 16777216,
+      "hash": "sha256-cabadbb7f976409e23c0c3d63567e6905b22adb811dc08b31f75c0246bfb3b0b",
+      "zipPartIndex": 135
+    },
+    {
+      "sliceId": "0137",
+      "fileName": "data_0136.bin",
+      "size": 16777216,
+      "offset": 2281701376,
+      "length": 16777216,
+      "hash": "sha256-b5b0f5b57aba27f601422777584b3046b369ba7c5131fa46e87b6ee56b0447e1",
+      "zipPartIndex": 136
+    },
+    {
+      "sliceId": "0138",
+      "fileName": "data_0137.bin",
+      "size": 16777216,
+      "offset": 2298478592,
+      "length": 16777216,
+      "hash": "sha256-ca8e5d7f7b44289dfd7d5126e1ef8c5bd0cd7245806dfd5f146dbafa4ecada58",
+      "zipPartIndex": 137
+    },
+    {
+      "sliceId": "0139",
+      "fileName": "data_0138.bin",
+      "size": 16777216,
+      "offset": 2315255808,
+      "length": 16777216,
+      "hash": "sha256-7e341b3df1dca3be4decaf881f53bca722eb9f25c0338a9221efa466cf922cfc",
+      "zipPartIndex": 138
+    },
+    {
+      "sliceId": "0140",
+      "fileName": "data_0139.bin",
+      "size": 16777216,
+      "offset": 2332033024,
+      "length": 16777216,
+      "hash": "sha256-6548b070f59400ec2b3f32100d04db5009a46a2d2c700d76c4fd284ad393652d",
+      "zipPartIndex": 139
+    },
+    {
+      "sliceId": "0141",
+      "fileName": "data_0140.bin",
+      "size": 16777216,
+      "offset": 2348810240,
+      "length": 16777216,
+      "hash": "sha256-5d037ee03cff393b0fc6c838dc5a8a9e4c96fc88fa2834317a798309571e2f37",
+      "zipPartIndex": 140
+    },
+    {
+      "sliceId": "0142",
+      "fileName": "data_0141.bin",
+      "size": 16777216,
+      "offset": 2365587456,
+      "length": 16777216,
+      "hash": "sha256-9b8a4d1dc06fe701bd221b8b9edb0341fe07a683f69660367060b8b4f65974e1",
+      "zipPartIndex": 141
+    },
+    {
+      "sliceId": "0143",
+      "fileName": "data_0142.bin",
+      "size": 16777216,
+      "offset": 2382364672,
+      "length": 16777216,
+      "hash": "sha256-5227df6ffb02a15b312c228e3955ba1108f85f9dfbabc9528c7dac47263a40f5",
+      "zipPartIndex": 142
+    },
+    {
+      "sliceId": "0144",
+      "fileName": "data_0143.bin",
+      "size": 16777216,
+      "offset": 2399141888,
+      "length": 16777216,
+      "hash": "sha256-4507e70868c7a8a05309fabc53087fc2260d05db3dbedcfb32621886964f7885",
+      "zipPartIndex": 143
+    },
+    {
+      "sliceId": "0145",
+      "fileName": "data_0144.bin",
+      "size": 16777216,
+      "offset": 2415919104,
+      "length": 16777216,
+      "hash": "sha256-bb621833887ca7b65b22c26e42ae5fff4f9787e1a61f4da45c83efd972cc1b91",
+      "zipPartIndex": 144
+    },
+    {
+      "sliceId": "0146",
+      "fileName": "data_0145.bin",
+      "size": 16777216,
+      "offset": 2432696320,
+      "length": 16777216,
+      "hash": "sha256-af805d717170ed172ba6a74d1fa4f55e026218bfd5e530c6398df5bad7d2f4e7",
+      "zipPartIndex": 145
+    },
+    {
+      "sliceId": "0147",
+      "fileName": "data_0146.bin",
+      "size": 16777216,
+      "offset": 2449473536,
+      "length": 16777216,
+      "hash": "sha256-8a13a9b9d81150ceededb6899ca490e89a950425339acb725177351faaf4beb0",
+      "zipPartIndex": 146
+    },
+    {
+      "sliceId": "0148",
+      "fileName": "data_0147.bin",
+      "size": 16777216,
+      "offset": 2466250752,
+      "length": 16777216,
+      "hash": "sha256-da811ebe260a1f6281ee8894f1632f5b1847525a653fe099312689473fdbe6af",
+      "zipPartIndex": 147
+    },
+    {
+      "sliceId": "0149",
+      "fileName": "data_0148.bin",
+      "size": 16777216,
+      "offset": 2483027968,
+      "length": 16777216,
+      "hash": "sha256-9dea071d23a3ca07d75ac9d9206820c00fb89179a8781e8e678ff614046b1969",
+      "zipPartIndex": 148
+    },
+    {
+      "sliceId": "0150",
+      "fileName": "data_0149.bin",
+      "size": 16777216,
+      "offset": 2499805184,
+      "length": 16777216,
+      "hash": "sha256-6b09204c242cb8ecd7b6c4b9bab211faac935b7d41ec4cddf3f1500d7ea4427a",
+      "zipPartIndex": 149
+    },
+    {
+      "sliceId": "0151",
+      "fileName": "data_0150.bin",
+      "size": 16777216,
+      "offset": 2516582400,
+      "length": 16777216,
+      "hash": "sha256-ec14a2890960736034d9a9e85360f936d5dd56fd33abebbd0151f5590ded79da",
+      "zipPartIndex": 150
+    },
+    {
+      "sliceId": "0152",
+      "fileName": "data_0151.bin",
+      "size": 16777216,
+      "offset": 2533359616,
+      "length": 16777216,
+      "hash": "sha256-7dcefc044e406c9292f29ee6f16f681dfc59edd26999af51fedfcfbb96bf41ce",
+      "zipPartIndex": 151
+    },
+    {
+      "sliceId": "0153",
+      "fileName": "data_0152.bin",
+      "size": 16777216,
+      "offset": 2550136832,
+      "length": 16777216,
+      "hash": "sha256-79cda3f4d09ae70932a7662ae20978510b3fc041453b70edd1db8abe8ad91598",
+      "zipPartIndex": 152
+    },
+    {
+      "sliceId": "0154",
+      "fileName": "data_0153.bin",
+      "size": 16777216,
+      "offset": 2566914048,
+      "length": 16777216,
+      "hash": "sha256-e2e766f6afd183fd1d0010cfa03e6a84e2075b2c5cb25664cb2cfc4e69ff12e4",
+      "zipPartIndex": 153
+    },
+    {
+      "sliceId": "0155",
+      "fileName": "data_0154.bin",
+      "size": 16777216,
+      "offset": 2583691264,
+      "length": 16777216,
+      "hash": "sha256-8734c69c0dbe750ae24d2218dac3a63015ec7314b72a53f50878398e426fdb60",
+      "zipPartIndex": 154
+    },
+    {
+      "sliceId": "0156",
+      "fileName": "data_0155.bin",
+      "size": 16777216,
+      "offset": 2600468480,
+      "length": 16777216,
+      "hash": "sha256-a1756296893b5fdcb26600973efd4cc6c395523f3e1168901153a6985407cc5a",
+      "zipPartIndex": 155
+    },
+    {
+      "sliceId": "0157",
+      "fileName": "data_0156.bin",
+      "size": 16777216,
+      "offset": 2617245696,
+      "length": 16777216,
+      "hash": "sha256-b7de33c2e25caef78e78db8d798d37a923bf4e9a0e0bd6e27cb2ab1fbe555109",
+      "zipPartIndex": 156
+    },
+    {
+      "sliceId": "0158",
+      "fileName": "data_0157.bin",
+      "size": 16777216,
+      "offset": 2634022912,
+      "length": 16777216,
+      "hash": "sha256-9429c373fcbfcb962a33dac2e42bb6ec362a8558ccfc7c0908886589b702f51b",
+      "zipPartIndex": 157
+    },
+    {
+      "sliceId": "0159",
+      "fileName": "data_0158.bin",
+      "size": 16777216,
+      "offset": 2650800128,
+      "length": 16777216,
+      "hash": "sha256-c020e980ea157779ab1b1fe0491305d36c114dcd97a7ad4b359b12fc10b445b7",
+      "zipPartIndex": 158
+    },
+    {
+      "sliceId": "0160",
+      "fileName": "data_0159.bin",
+      "size": 16777216,
+      "offset": 2667577344,
+      "length": 16777216,
+      "hash": "sha256-dfe997852ce20a5e8c618c9ae3d82781d3abd908a3684eea73559d210639c2a5",
+      "zipPartIndex": 159
+    },
+    {
+      "sliceId": "0161",
+      "fileName": "data_0160.bin",
+      "size": 16777216,
+      "offset": 2684354560,
+      "length": 16777216,
+      "hash": "sha256-d90c0023d95c881bde67d3f945f3c9f55be0e667662b4e6a6c161c95c003e060",
+      "zipPartIndex": 160
+    },
+    {
+      "sliceId": "0162",
+      "fileName": "data_0161.bin",
+      "size": 16777216,
+      "offset": 2701131776,
+      "length": 16777216,
+      "hash": "sha256-8be37fe48a2d4310663b8297a3a46986377d24a5ba31edeac038ea35b0ce39ff",
+      "zipPartIndex": 161
+    },
+    {
+      "sliceId": "0163",
+      "fileName": "data_0162.bin",
+      "size": 16777216,
+      "offset": 2717908992,
+      "length": 16777216,
+      "hash": "sha256-c2e44e4c164a58656e6062aff246cf73d14a2d75e48e4b64e27bddc96c78f12c",
+      "zipPartIndex": 162
+    },
+    {
+      "sliceId": "0164",
+      "fileName": "data_0163.bin",
+      "size": 16777216,
+      "offset": 2734686208,
+      "length": 16777216,
+      "hash": "sha256-a3eef8eb185e1d89388aa93c9b639f1ae6ca5d8970c211fb51e96817c6ea8083",
+      "zipPartIndex": 163
+    },
+    {
+      "sliceId": "0165",
+      "fileName": "data_0164.bin",
+      "size": 16777216,
+      "offset": 2751463424,
+      "length": 16777216,
+      "hash": "sha256-070674cd9c980d3354869cbfc7a1de843212225f0872b930fd5816544ca85a32",
+      "zipPartIndex": 164
+    },
+    {
+      "sliceId": "0166",
+      "fileName": "data_0165.bin",
+      "size": 16777216,
+      "offset": 2768240640,
+      "length": 16777216,
+      "hash": "sha256-61232ace714dab9c00dcb375197341d1b5e654ed25650d192a3b2c4d1bddf2bb",
+      "zipPartIndex": 165
+    },
+    {
+      "sliceId": "0167",
+      "fileName": "data_0166.bin",
+      "size": 16777216,
+      "offset": 2785017856,
+      "length": 16777216,
+      "hash": "sha256-1c046fe4b0ba4081907ffb9174c22c26d10b03383ff0d2ed008572ec73f2b788",
+      "zipPartIndex": 166
+    },
+    {
+      "sliceId": "0168",
+      "fileName": "data_0167.bin",
+      "size": 16777216,
+      "offset": 2801795072,
+      "length": 16777216,
+      "hash": "sha256-b5e2234c4493410e9dfcc06f4e7954e68959e5a6e6c6c0e62653c029f9c9f7f8",
+      "zipPartIndex": 167
+    },
+    {
+      "sliceId": "0169",
+      "fileName": "data_0168.bin",
+      "size": 16777216,
+      "offset": 2818572288,
+      "length": 16777216,
+      "hash": "sha256-01c3cfb1dd6f4217b99edc6540194d4197da9f0a25b1f99a597214705141d72a",
+      "zipPartIndex": 168
+    },
+    {
+      "sliceId": "0170",
+      "fileName": "data_0169.bin",
+      "size": 16777216,
+      "offset": 2835349504,
+      "length": 16777216,
+      "hash": "sha256-d2c79e30a90bec535329a5d6d0d091192b78d8acd3f09ca59360b61f30567e2a",
+      "zipPartIndex": 169
+    },
+    {
+      "sliceId": "0171",
+      "fileName": "data_0170.bin",
+      "size": 16777216,
+      "offset": 2852126720,
+      "length": 16777216,
+      "hash": "sha256-6211169c94ed123d10821e47cd26f600785c15aca19b510cac8208270f08f205",
+      "zipPartIndex": 170
+    },
+    {
+      "sliceId": "0172",
+      "fileName": "data_0171.bin",
+      "size": 16777216,
+      "offset": 2868903936,
+      "length": 16777216,
+      "hash": "sha256-76e36b044963660ec1715f8b52c7b53a08ab646f3029bf837b483302a4e6dc37",
+      "zipPartIndex": 171
+    },
+    {
+      "sliceId": "0173",
+      "fileName": "data_0172.bin",
+      "size": 9482464,
+      "offset": 2885681152,
+      "length": 9482464,
+      "hash": "sha256-2f9433de45149993a900c7020939d004851cfb78571a8c5dd31c774648e7eaa7",
+      "zipPartIndex": 172
+    }
+  ]
+}
